@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SFIR Princeton</title>
+    <description>Star Formation/ISM seminars at Princeton
+</description>
+    <link>https://sfirprinceton.github.io//</link>
+    <atom:link href="https://sfirprinceton.github.io//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 07 Aug 2019 04:22:35 -0400</pubDate>
+    <lastBuildDate>Wed, 07 Aug 2019 04:22:35 -0400</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>TBA</title>
+        <description>&lt;p&gt;TBA&lt;/p&gt;
+</description>
+        <pubDate>Wed, 06 Nov 2019 10:00:00 -0500</pubDate>
+        <link>https://sfirprinceton.github.io//sfir/2019/11/06/sfir-sanghyuk-moon.html</link>
+        <guid isPermaLink="true">https://sfirprinceton.github.io//sfir/2019/11/06/sfir-sanghyuk-moon.html</guid>
+        
+        
+        <category>sfir</category>
+        
+      </item>
+    
+      <item>
+        <title>TBA</title>
+        <description>&lt;p&gt;TBA&lt;/p&gt;
+</description>
+        <pubDate>Wed, 16 Oct 2019 11:00:00 -0400</pubDate>
+        <link>https://sfirprinceton.github.io//sfir/2019/10/16/sfir-hui-li.html</link>
+        <guid isPermaLink="true">https://sfirprinceton.github.io//sfir/2019/10/16/sfir-hui-li.html</guid>
+        
+        
+        <category>sfir</category>
+        
+      </item>
+    
+      <item>
+        <title>Intensity Mapping Tomography in Broadbands</title>
+        <description>&lt;p&gt;The extragalactic background light (EBL) provides a summary statistic 
+of cosmological galaxy formation and encodes information from all 
+relevant physics in a light-weighted manner. However, one needs to 
+resolve key spectral features in the EBL in order to extract the 
+physics. For this, we developed a cross-correlation based tomographic 
+method to recover previously lost redshift and sub-bandpass frequency 
+information for the diffuse light in classic wide-field, broadband 
+imaging surveys. I will show the first application with data by probing 
+the continuum, Lyα line, and Lyman break in the cosmic UV background 
+(UVB) up to z~2 using GALEX All Sky and Medium Imaging Surveys. These 
+empirically constrained UVB spectral features provide insights on the 
+cosmic star formation history, the absorption due to neutral gas in the 
+interstellar medium, and the potential emission from the diffuse 
+intergalactic medium. We expect this method to be generically 
+applicable over a wide range of wavebands, with a potential of 
+performing various spectral diagnostics over the panchromatic EBL.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 25 Sep 2019 11:00:00 -0400</pubDate>
+        <link>https://sfirprinceton.github.io//sfir/2019/09/25/sfir-yikuan-chiang.html</link>
+        <guid isPermaLink="true">https://sfirprinceton.github.io//sfir/2019/09/25/sfir-yikuan-chiang.html</guid>
+        
+        
+        <category>sfir</category>
+        
+      </item>
+    
+      <item>
+        <title>Multiwavelength Far-Infrared Polarimetry with HAWC+</title>
+        <description>&lt;p&gt;Far-Infrared polarimetry is a useful tool for exploring the role of 
+magnetic fields in star formation and Galactic dynamics. The HAWC+/SOFIA 
+polarimeter provides a major leap forward in observing capability from 
+previous FIR polarimeters by providing both photometric and polarimetric 
+imaging at 53, 89, 154, and 214 microns. I will review the instrumental 
+capabilities and discuss initial results from HAWC+, including 
+multiwavelength measurements of the OMC-1 region.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 18 Jun 2019 11:00:00 -0400</pubDate>
+        <link>https://sfirprinceton.github.io//sfir/2019/06/18/sfir-david-chuss.html</link>
+        <guid isPermaLink="true">https://sfirprinceton.github.io//sfir/2019/06/18/sfir-david-chuss.html</guid>
+        
+        
+        <category>sfir</category>
+        
+      </item>
+    
+      <item>
+        <title>The Hall effect in numerical star formation</title>
+        <description>&lt;p&gt;The Hall effect is one of the three processes of non-ideal MHD that 
+decouple the magnetic field from the gas. By converting poloidal 
+magnetic field in toroidal magnetic field, it is especially important 
+in star formation because it can either strengthen or weaken the 
+magnetic braking, thus influencing the properties of the circumstellar 
+disk. I will present my implementation of the Hall effect in the AMR 
+code RAMSES, as well as the difficulties we encountered concerning the 
+conservation of angular momentum.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 13 Mar 2019 11:00:00 -0400</pubDate>
+        <link>https://sfirprinceton.github.io//sfir/2019/03/13/sfir-pierre-marchand.html</link>
+        <guid isPermaLink="true">https://sfirprinceton.github.io//sfir/2019/03/13/sfir-pierre-marchand.html</guid>
+        
+        
+        <category>sfir</category>
+        
+      </item>
+    
+      <item>
+        <title>The Distance to and the Near-infrared Extinction of the Monoceros Supernova Remnant</title>
+        <description>&lt;p&gt;Based on the color indices from the Two Micron All Sky Survey and the 
+stellar parameters from the SDSS–DR12/APOGEE and LAMOST spectroscopic 
+surveys, the near-infrared extinction law of and the distance to the 
+Monoceros SNR are derived together with those of the two nebulae close 
+to it, the Rosette Nebula and NGC2264. The distance is found at the 
+position of the sharp increase of the interstellar extinction with 
+distance, and the nebular extinction is calculated by subtracting the 
+foreground interstellar extinction. The distance to the Monoceros SNR 
+is determined to be 1.98 kpc, larger than previous values. The color 
+excess ratio, EJH/EJKS, is 0.657 for the Monoceros SNR, consistent with 
+the average value of 0.652 for the Milky Way. This consistency results 
+from the fact that the SNR material is dominated by interstellar dust 
+rather than by the supernova ejecta. The dust mass of the SNR is 
+estimated as well. The preliminary results on the extinction law of 20 
+SNRs will be presented as well.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 13 Mar 2019 11:00:00 -0400</pubDate>
+        <link>https://sfirprinceton.github.io//sfir/2019/03/13/sfir-biwei-jiang.html</link>
+        <guid isPermaLink="true">https://sfirprinceton.github.io//sfir/2019/03/13/sfir-biwei-jiang.html</guid>
+        
+        
+        <category>sfir</category>
+        
+      </item>
+    
+      <item>
+        <title>Accretion structure of inner protoplanetary disks</title>
+        <description>&lt;p&gt;Young stars such as protostars and pre-main-sequence stars grow through 
+the interaction with the surrounding disks. To reveal the accretion 
+dynamics in the vicinity of the central stars, we have been developing 
+a 3D MHD star-disk model using Athena++. We will show the results of 
+global 3D MHD simulations of an accretion disk with a rotating, 
+magnetized central star. The classical picture predicts that fast 
+(~escape velocity) accretion onto the star is possible only when the 
+star has a strong magnetosphere. However, we found that fast accretion 
+can occur even without the magnetosphere, which seems to be consistent 
+with recent observations of Herbig stars that are generally weakly 
+magnetized. We are also investigating the origin of violent magnetic 
+activity in the protostellar phase, protostellar flares. We will 
+briefly discuss a possible occurrence mechanism and a connection to the 
+dynamics in black hole accretion disks. Until recently there was only 
+one group that succeeded in 3D modeling of accretion onto a central 
+star. We will describe how previous pictures will be updated on the 
+basis of our results.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 06 Mar 2019 10:00:00 -0500</pubDate>
+        <link>https://sfirprinceton.github.io//sfir/2019/03/06/sfir-shinsuke-takasao.html</link>
+        <guid isPermaLink="true">https://sfirprinceton.github.io//sfir/2019/03/06/sfir-shinsuke-takasao.html</guid>
+        
+        
+        <category>sfir</category>
+        
+      </item>
+    
+      <item>
+        <title>The dynamical effects of radiation pressure on dust in star-forming galaxies</title>
+        <description>&lt;p&gt;Popular models used in cosmological hydrodynamical simulations of 
+galaxy formation have invoked direct radiation pressure on dust as a 
+critical component of stellar feedback. I investigate the stability 
+properties of direct radiation pressure on dust due to young stellar 
+populations within starburst disk galaxies and compute observational 
+estimates of galaxy-averaged Eddington ratios. I assess the prospects 
+for radiation pressure-driven galactic winds and 
+radiation-pressure-driven galactic turbulence and conclude with future 
+directions for study of the dynamics of dust, gas, and radiation in 
+galaxies.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 28 Nov 2018 10:00:00 -0500</pubDate>
+        <link>https://sfirprinceton.github.io//sfir/2018/11/28/sfir-ben-wibking.html</link>
+        <guid isPermaLink="true">https://sfirprinceton.github.io//sfir/2018/11/28/sfir-ben-wibking.html</guid>
+        
+        
+        <category>sfir</category>
+        
+      </item>
+    
+      <item>
+        <title>How stellar feedback and cosmic rays shape galaxies and their halos</title>
+        <description>&lt;p&gt;Stellar feedback is an indispensable component in galaxy evolution, 
+which regulates star formation, drive galactic winds, and shape the 
+galaxy structures. With the “Feedback in Realistic Environment’’ (FIRE) 
+simulations, I demonstrate the importance of stellar feedback with a 
+few examples: 1. how stellar feedback modifies the underlying dark 
+matter halo structures, 2. how stellar feedback produces diffuse dwarf 
+galaxies, e.g. ultra diffuse galaxies. In the second part of my talk, I 
+will focus on an important kind of stellar feedback — cosmic ray (CR) 
+feedback, which we have recently implemented in the code GIZMO and 
+coupled to the FIRE stellar feedback model. I will demonstrate its 
+strong effects on galaxies, e.g. star formation, galactic wind, and 
+circum-galactic medium, but the effects highly depend on the CR 
+propagation model. I will then show how to constrain those models by 
+comparing our simulations with the observed gamma ray emission. 
+Finally, I will discuss the ongoing research and future direction on CR 
+feedback.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 14 Nov 2018 10:00:00 -0500</pubDate>
+        <link>https://sfirprinceton.github.io//sfir/2018/11/14/sfir-tsang-keung.html</link>
+        <guid isPermaLink="true">https://sfirprinceton.github.io//sfir/2018/11/14/sfir-tsang-keung.html</guid>
+        
+        
+        <category>sfir</category>
+        
+      </item>
+    
+      <item>
+        <title>Star Formation in the Large Magellanic Cloud – Using ALMA to Prepare for Future JWST Observations</title>
+        <description>&lt;p&gt;The Large Magellanic Cloud has been the subject of star formation 
+studies for decades due to its proximity to the Milky Way (50 kpc), a 
+nearly face-on orientation, and a low metallicity (0.5 solar) similar 
+to that of galaxies at the peak of star formation in the universe 
+(z~2). My work is on three extreme star forming environments in the 
+Large Magellanic Cloud: 30 Doradus, N159, and N79. I analyze the CO 
+molecular gas clouds, as well as other high density gas tracers, 
+observed with ALMA to relate the star formation activity in 30 Doradus, 
+N159, and N79 to the parental gas in which protostars form. I find that 
+not all massive young stellar objects are associated with CO gas, 
+higher mass clumps tend to form higher mass stars, and there is a 
+density threshold above which massive star formation takes place. 
+Looking at the interplay between dense molecular gas and the newly 
+forming stars in a stellar nursery will shed light on how these stars 
+formed: filamentary collision, monolithic collapse, or competitive 
+accretion. My current work using ALMA observations of a super star 
+cluster candidate in N79 serves as the basis for JWST MIRI and NIRCam 
+planned GTO observations.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 24 Oct 2018 11:00:00 -0400</pubDate>
+        <link>https://sfirprinceton.github.io//sfir/2018/10/24/sfir-isha-nayak.html</link>
+        <guid isPermaLink="true">https://sfirprinceton.github.io//sfir/2018/10/24/sfir-isha-nayak.html</guid>
+        
+        
+        <category>sfir</category>
+        
+      </item>
+    
+  </channel>
+</rss>
