@@ -32,7 +32,7 @@ journal-club style presentations and other updates and discussions.
 
 
 Organizers for 2019 are: \\
-Philip Mocz  
+Philip Mocz 
 <pmocz@astro.princeton.edu> 
 \\
 Eve Ostriker 
