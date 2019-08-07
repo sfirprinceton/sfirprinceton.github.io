@@ -11,6 +11,12 @@ permalink: /about/
 **Time:**   11am-Noon \\
 **Where:** Peyton Hall Dome Room (201)
 
+If you are interested in giving a talk at SFIR, please contact Philip Mocz: <pmocz@astro.princeton.edu> 
+
+[Subscribe here](https://mail.astro.princeton.edu/mailman/listinfo/sfir) to the SFIR mailing list
+
+The talks are also advertised on the [department website](https://web.astro.princeton.edu/events/seminars/sfir-star_formation-ism_rendezvous)
+
 
 **SFIR** (pronounced “sapphire”) is the **Star Formation/ISM 
 Rendezvous**, a seminar covering research on all aspects of star 
@@ -19,8 +25,7 @@ external galaxies.  SFIR is open to all interested members of the
 Princeton+IAS astrophysics community, as well as visitors from other 
 departments.    
 
-Members of the [department](https://web.astro.princeton.edu/events/seminars/sfir-star_formation-ism_rendezvous)
- (students, postdocs, and faculty) and 
+Members of the department (students, postdocs, and faculty) and 
 visitors present research talks, at varying levels of formality, 
 allowing for extensive discussion.   Contributions may also include 
 journal-club style presentations and other updates and discussions.
