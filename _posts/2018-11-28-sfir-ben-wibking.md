@@ -1,6 +1,6 @@
 ---
 layout: post
-name:  "Ben Winking (Ohio State)"
+name:  "Ben Wibking (Ohio State)"
 title:  "The dynamical effects of radiation pressure on dust in star-forming galaxies"
 date:   2018-11-28 11:00:00 -0400
 image: "../../../../figures/missing.jpg"
