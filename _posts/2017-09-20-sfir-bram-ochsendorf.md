@@ -2,7 +2,7 @@
 layout: post
 name:  "Bram Ochsendorf (Johns Hopkins)"
 title:  "What drives the formation of massive stars and clusters?"
-date:   2017-09-27 11:00:00 -0400
+date:   2017-09-20 11:00:00 -0400
 image: "../../../../figures/missing.jpg"
 website: "https://"
 categories: sfir
