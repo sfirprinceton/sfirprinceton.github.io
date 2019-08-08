@@ -2,7 +2,7 @@
 layout: post
 name:  "Juan Diego Soler (MPIA)"
 title:  "One or two tricks from machine vision applied to the study of molecular cloud formation"
-date:   2018-10-10 11:00:00 -0400
+date:   2018-10-03 11:00:00 -0400
 image: "../../../../figures/missing.jpg"
 website: "https://"
 categories: sfir
