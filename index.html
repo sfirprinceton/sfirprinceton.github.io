@@ -4,20 +4,31 @@ layout: default
 
 <div class="home">
 
-  <!-- <h1 class="page-heading">Posts</h1> -->
+  <h1 class="page-heading">Upcoming ...</h1>
 
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% for post in site.posts reversed %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
         <h2>
           {% if site.time > post.date %}
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}" style="color:#696969">{{ post.title }}</a>
-            <p style="color:#808080">{{ post.name }}  </p> 
           {% else %}
+            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}" style="color:#ff8f00">{{ post.title }}</a>
             {{ post.name }}  <div id="image1" class="cropcircle" style="background-image: url( {{ post.image }} )"></div>
+          {% endif %}
+        </h2>
+      </li>
+    {% endfor %}
+    
+     <h1 class="page-heading">Archive</h1>
+    
+    {% for post in site.posts %}
+      <li> 
+        <h2>
+          {% if site.time > post.date %}
+            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}" style="color:#696969">{{ post.title }}</a>
+            <p style="color:#808080">{{ post.name }}  </p> 
           {% endif %}
         </h2>
       </li>

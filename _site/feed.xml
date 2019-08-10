@@ -6,8 +6,8 @@
 </description>
     <link>https://sfirprinceton.github.io//</link>
     <atom:link href="https://sfirprinceton.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 08 Aug 2019 03:24:04 -0400</pubDate>
-    <lastBuildDate>Thu, 08 Aug 2019 03:24:04 -0400</lastBuildDate>
+    <pubDate>Fri, 09 Aug 2019 20:56:48 -0400</pubDate>
+    <lastBuildDate>Fri, 09 Aug 2019 20:56:48 -0400</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -17,6 +17,19 @@
         <pubDate>Wed, 06 Nov 2019 10:00:00 -0500</pubDate>
         <link>https://sfirprinceton.github.io//sfir/2019/11/06/sfir-sanghyuk-moon.html</link>
         <guid isPermaLink="true">https://sfirprinceton.github.io//sfir/2019/11/06/sfir-sanghyuk-moon.html</guid>
+        
+        
+        <category>sfir</category>
+        
+      </item>
+    
+      <item>
+        <title>TBA</title>
+        <description>&lt;p&gt;TBA&lt;/p&gt;
+</description>
+        <pubDate>Wed, 23 Oct 2019 11:00:00 -0400</pubDate>
+        <link>https://sfirprinceton.github.io//sfir/2019/10/23/sfir-chad-bustard.html</link>
+        <guid isPermaLink="true">https://sfirprinceton.github.io//sfir/2019/10/23/sfir-chad-bustard.html</guid>
         
         
         <category>sfir</category>
@@ -203,36 +216,6 @@ feedback.&lt;/p&gt;
         <pubDate>Wed, 14 Nov 2018 10:00:00 -0500</pubDate>
         <link>https://sfirprinceton.github.io//sfir/2018/11/14/sfir-tsang-keung.html</link>
         <guid isPermaLink="true">https://sfirprinceton.github.io//sfir/2018/11/14/sfir-tsang-keung.html</guid>
-        
-        
-        <category>sfir</category>
-        
-      </item>
-    
-      <item>
-        <title>Star Formation in the Large Magellanic Cloud – Using ALMA to Prepare for Future JWST Observations</title>
-        <description>&lt;p&gt;The Large Magellanic Cloud has been the subject of star formation 
-studies for decades due to its proximity to the Milky Way (50 kpc), a 
-nearly face-on orientation, and a low metallicity (0.5 solar) similar 
-to that of galaxies at the peak of star formation in the universe 
-(z~2). My work is on three extreme star forming environments in the 
-Large Magellanic Cloud: 30 Doradus, N159, and N79. I analyze the CO 
-molecular gas clouds, as well as other high density gas tracers, 
-observed with ALMA to relate the star formation activity in 30 Doradus, 
-N159, and N79 to the parental gas in which protostars form. I find that 
-not all massive young stellar objects are associated with CO gas, 
-higher mass clumps tend to form higher mass stars, and there is a 
-density threshold above which massive star formation takes place. 
-Looking at the interplay between dense molecular gas and the newly 
-forming stars in a stellar nursery will shed light on how these stars 
-formed: filamentary collision, monolithic collapse, or competitive 
-accretion. My current work using ALMA observations of a super star 
-cluster candidate in N79 serves as the basis for JWST MIRI and NIRCam 
-planned GTO observations.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 24 Oct 2018 11:00:00 -0400</pubDate>
-        <link>https://sfirprinceton.github.io//sfir/2018/10/24/sfir-isha-nayak.html</link>
-        <guid isPermaLink="true">https://sfirprinceton.github.io//sfir/2018/10/24/sfir-isha-nayak.html</guid>
         
         
         <category>sfir</category>
