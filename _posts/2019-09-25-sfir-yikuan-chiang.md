@@ -1,6 +1,6 @@
 ---
 layout: post
-name:  "Yi-Kuan Chiang (Johns Hopkins) -- ROOM 140"
+name:  "Yi-Kuan Chiang (Johns Hopkins) -- LSST area"
 title:  "Intensity Mapping Tomography in Broadbands"
 date:   2019-09-25 11:00:00 -0400
 image: "../../../../figures/ykchiang.jpg"
