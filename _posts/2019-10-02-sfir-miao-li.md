@@ -1,7 +1,7 @@
 ---
 layout: post
 name:  "Miao Li (Simons Foundation)"
-title:  "Do Supernovae-driven Hot Outflows Shape the Circumgalactic Medium?"
+title:  "How Do Supernovae-driven Hot Outflows Shape the Circumgalactic Medium?"
 date:   2019-10-02 11:00:00 -0400
 image: "../../../../figures/mli.jpg"
 website: "https://www.simonsfoundation.org/team/miao-li/"
