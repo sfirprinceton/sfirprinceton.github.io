@@ -6,9 +6,35 @@
 </description>
     <link>https://sfirprinceton.github.io//</link>
     <atom:link href="https://sfirprinceton.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 03 Sep 2019 12:07:38 -0400</pubDate>
-    <lastBuildDate>Tue, 03 Sep 2019 12:07:38 -0400</lastBuildDate>
+    <pubDate>Thu, 03 Oct 2019 14:13:37 -0400</pubDate>
+    <lastBuildDate>Thu, 03 Oct 2019 14:13:37 -0400</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>TBA</title>
+        <description>&lt;p&gt;TBA&lt;/p&gt;
+</description>
+        <pubDate>Wed, 04 Dec 2019 10:00:00 -0500</pubDate>
+        <link>https://sfirprinceton.github.io//sfir/2019/12/04/sfir-evan-anders.html</link>
+        <guid isPermaLink="true">https://sfirprinceton.github.io//sfir/2019/12/04/sfir-evan-anders.html</guid>
+        
+        
+        <category>sfir</category>
+        
+      </item>
+    
+      <item>
+        <title>TBA</title>
+        <description>&lt;p&gt;TBA&lt;/p&gt;
+</description>
+        <pubDate>Wed, 20 Nov 2019 10:00:00 -0500</pubDate>
+        <link>https://sfirprinceton.github.io//sfir/2019/11/20/sfir-drummond-fielding.html</link>
+        <guid isPermaLink="true">https://sfirprinceton.github.io//sfir/2019/11/20/sfir-drummond-fielding.html</guid>
+        
+        
+        <category>sfir</category>
+        
+      </item>
     
       <item>
         <title>TBA</title>
@@ -43,6 +69,37 @@
         <pubDate>Wed, 16 Oct 2019 11:00:00 -0400</pubDate>
         <link>https://sfirprinceton.github.io//sfir/2019/10/16/sfir-hui-li.html</link>
         <guid isPermaLink="true">https://sfirprinceton.github.io//sfir/2019/10/16/sfir-hui-li.html</guid>
+        
+        
+        <category>sfir</category>
+        
+      </item>
+    
+      <item>
+        <title>How Do Supernovae-driven Hot Outflows Shape the Circumgalactic Medium?</title>
+        <description>&lt;p&gt;Supernovae (SNe) drive metal-enriched, galaxy-wide outflows. How the 
+outflows impact the circumgalactic medium (CGM) depends on (a) how much 
+mass/energy/metals the outflows carry, and (b) what is already in the 
+CGM. Small-box, high-resolution simulations on SNe feedback constrain 
+(a) but leave out (b), whereas cosmological simulations capture (b) but 
+use ad hoc models for (a).  We aim at bridging the gap by adopting 
+small-box results as the outflow model for galaxy-scale simulations to 
+study the resultant CGM. In this talk, I will first summarize the 
+recent progress of small-box simulations; particularly, the hot 
+outflows appear to be simple yet powerful. Using a Milky Way-mass 
+galaxy for an example, we find that, when the star formation surface 
+density is low, hot outflows form large-scale fountains in the halo. 
+The warm-hot CGM has a universal density profile, which produces the 
+observed column density of O VI, VII, and VIII, and X-ray emission. 
+Cool gas that condenses out of the hot CGM is highly enriched and 
+mainly falls toward the galaxy. In contrast, when the star formation 
+surface density is high, the outflows are bipolar in shape and funnel 
+metals into the intergalactic medium; cool gas is moderately-enriched, 
+with a fraction moving outward at high velocities.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 02 Oct 2019 11:00:00 -0400</pubDate>
+        <link>https://sfirprinceton.github.io//sfir/2019/10/02/sfir-miao-li.html</link>
+        <guid isPermaLink="true">https://sfirprinceton.github.io//sfir/2019/10/02/sfir-miao-li.html</guid>
         
         
         <category>sfir</category>
@@ -137,85 +194,6 @@ SNRs will be presented as well.&lt;/p&gt;
         <pubDate>Wed, 13 Mar 2019 11:00:00 -0400</pubDate>
         <link>https://sfirprinceton.github.io//sfir/2019/03/13/sfir-biwei-jiang.html</link>
         <guid isPermaLink="true">https://sfirprinceton.github.io//sfir/2019/03/13/sfir-biwei-jiang.html</guid>
-        
-        
-        <category>sfir</category>
-        
-      </item>
-    
-      <item>
-        <title>Accretion structure of inner protoplanetary disks</title>
-        <description>&lt;p&gt;Young stars such as protostars and pre-main-sequence stars grow through 
-the interaction with the surrounding disks. To reveal the accretion 
-dynamics in the vicinity of the central stars, we have been developing 
-a 3D MHD star-disk model using Athena++. We will show the results of 
-global 3D MHD simulations of an accretion disk with a rotating, 
-magnetized central star. The classical picture predicts that fast 
-(~escape velocity) accretion onto the star is possible only when the 
-star has a strong magnetosphere. However, we found that fast accretion 
-can occur even without the magnetosphere, which seems to be consistent 
-with recent observations of Herbig stars that are generally weakly 
-magnetized. We are also investigating the origin of violent magnetic 
-activity in the protostellar phase, protostellar flares. We will 
-briefly discuss a possible occurrence mechanism and a connection to the 
-dynamics in black hole accretion disks. Until recently there was only 
-one group that succeeded in 3D modeling of accretion onto a central 
-star. We will describe how previous pictures will be updated on the 
-basis of our results.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 06 Mar 2019 10:00:00 -0500</pubDate>
-        <link>https://sfirprinceton.github.io//sfir/2019/03/06/sfir-shinsuke-takasao.html</link>
-        <guid isPermaLink="true">https://sfirprinceton.github.io//sfir/2019/03/06/sfir-shinsuke-takasao.html</guid>
-        
-        
-        <category>sfir</category>
-        
-      </item>
-    
-      <item>
-        <title>The dynamical effects of radiation pressure on dust in star-forming galaxies</title>
-        <description>&lt;p&gt;Popular models used in cosmological hydrodynamical simulations of 
-galaxy formation have invoked direct radiation pressure on dust as a 
-critical component of stellar feedback. I investigate the stability 
-properties of direct radiation pressure on dust due to young stellar 
-populations within starburst disk galaxies and compute observational 
-estimates of galaxy-averaged Eddington ratios. I assess the prospects 
-for radiation pressure-driven galactic winds and 
-radiation-pressure-driven galactic turbulence and conclude with future 
-directions for study of the dynamics of dust, gas, and radiation in 
-galaxies.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 28 Nov 2018 10:00:00 -0500</pubDate>
-        <link>https://sfirprinceton.github.io//sfir/2018/11/28/sfir-ben-wibking.html</link>
-        <guid isPermaLink="true">https://sfirprinceton.github.io//sfir/2018/11/28/sfir-ben-wibking.html</guid>
-        
-        
-        <category>sfir</category>
-        
-      </item>
-    
-      <item>
-        <title>How stellar feedback and cosmic rays shape galaxies and their halos</title>
-        <description>&lt;p&gt;Stellar feedback is an indispensable component in galaxy evolution, 
-which regulates star formation, drive galactic winds, and shape the 
-galaxy structures. With the “Feedback in Realistic Environment’’ (FIRE) 
-simulations, I demonstrate the importance of stellar feedback with a 
-few examples: 1. how stellar feedback modifies the underlying dark 
-matter halo structures, 2. how stellar feedback produces diffuse dwarf 
-galaxies, e.g. ultra diffuse galaxies. In the second part of my talk, I 
-will focus on an important kind of stellar feedback — cosmic ray (CR) 
-feedback, which we have recently implemented in the code GIZMO and 
-coupled to the FIRE stellar feedback model. I will demonstrate its 
-strong effects on galaxies, e.g. star formation, galactic wind, and 
-circum-galactic medium, but the effects highly depend on the CR 
-propagation model. I will then show how to constrain those models by 
-comparing our simulations with the observed gamma ray emission. 
-Finally, I will discuss the ongoing research and future direction on CR 
-feedback.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 14 Nov 2018 10:00:00 -0500</pubDate>
-        <link>https://sfirprinceton.github.io//sfir/2018/11/14/sfir-tsang-keung.html</link>
-        <guid isPermaLink="true">https://sfirprinceton.github.io//sfir/2018/11/14/sfir-tsang-keung.html</guid>
         
         
         <category>sfir</category>
