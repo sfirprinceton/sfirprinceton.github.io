@@ -5,6 +5,7 @@ permalink: /about/
 ---
 
 ![Peyton](../figures/peyton.jpg)
+<sub>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; photo credit: [Chang-Goo Kim](https://www.astro.princeton.edu/~cgkim/astral/index.html)   </sub> 
 
 
 **When:**  Wednesdays \\
