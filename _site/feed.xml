@@ -6,8 +6,8 @@
 </description>
     <link>https://sfirprinceton.github.io//</link>
     <atom:link href="https://sfirprinceton.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 03 Oct 2019 14:22:07 -0400</pubDate>
-    <lastBuildDate>Thu, 03 Oct 2019 14:22:07 -0400</lastBuildDate>
+    <pubDate>Tue, 08 Oct 2019 13:41:33 -0400</pubDate>
+    <lastBuildDate>Tue, 08 Oct 2019 13:41:33 -0400</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -43,6 +43,19 @@
         <pubDate>Wed, 13 Nov 2019 10:00:00 -0500</pubDate>
         <link>https://sfirprinceton.github.io//sfir/2019/11/13/sfir-sanghyuk-moon.html</link>
         <guid isPermaLink="true">https://sfirprinceton.github.io//sfir/2019/11/13/sfir-sanghyuk-moon.html</guid>
+        
+        
+        <category>sfir</category>
+        
+      </item>
+    
+      <item>
+        <title>TBA</title>
+        <description>&lt;p&gt;TBA&lt;/p&gt;
+</description>
+        <pubDate>Mon, 04 Nov 2019 10:00:00 -0500</pubDate>
+        <link>https://sfirprinceton.github.io//sfir/2019/11/04/sarah-jefferson.html</link>
+        <guid isPermaLink="true">https://sfirprinceton.github.io//sfir/2019/11/04/sarah-jefferson.html</guid>
         
         
         <category>sfir</category>
@@ -167,33 +180,6 @@ conservation of angular momentum.&lt;/p&gt;
         <pubDate>Wed, 13 Mar 2019 11:00:00 -0400</pubDate>
         <link>https://sfirprinceton.github.io//sfir/2019/03/13/sfir-pierre-marchand.html</link>
         <guid isPermaLink="true">https://sfirprinceton.github.io//sfir/2019/03/13/sfir-pierre-marchand.html</guid>
-        
-        
-        <category>sfir</category>
-        
-      </item>
-    
-      <item>
-        <title>The Distance to and the Near-infrared Extinction of the Monoceros Supernova Remnant</title>
-        <description>&lt;p&gt;Based on the color indices from the Two Micron All Sky Survey and the 
-stellar parameters from the SDSS–DR12/APOGEE and LAMOST spectroscopic 
-surveys, the near-infrared extinction law of and the distance to the 
-Monoceros SNR are derived together with those of the two nebulae close 
-to it, the Rosette Nebula and NGC2264. The distance is found at the 
-position of the sharp increase of the interstellar extinction with 
-distance, and the nebular extinction is calculated by subtracting the 
-foreground interstellar extinction. The distance to the Monoceros SNR 
-is determined to be 1.98 kpc, larger than previous values. The color 
-excess ratio, EJH/EJKS, is 0.657 for the Monoceros SNR, consistent with 
-the average value of 0.652 for the Milky Way. This consistency results 
-from the fact that the SNR material is dominated by interstellar dust 
-rather than by the supernova ejecta. The dust mass of the SNR is 
-estimated as well. The preliminary results on the extinction law of 20 
-SNRs will be presented as well.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 13 Mar 2019 11:00:00 -0400</pubDate>
-        <link>https://sfirprinceton.github.io//sfir/2019/03/13/sfir-biwei-jiang.html</link>
-        <guid isPermaLink="true">https://sfirprinceton.github.io//sfir/2019/03/13/sfir-biwei-jiang.html</guid>
         
         
         <category>sfir</category>
