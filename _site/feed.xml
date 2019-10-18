@@ -6,8 +6,8 @@
 </description>
     <link>https://sfirprinceton.github.io//</link>
     <atom:link href="https://sfirprinceton.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 08 Oct 2019 13:44:30 -0400</pubDate>
-    <lastBuildDate>Tue, 08 Oct 2019 13:44:30 -0400</lastBuildDate>
+    <pubDate>Fri, 18 Oct 2019 11:03:41 -0400</pubDate>
+    <lastBuildDate>Fri, 18 Oct 2019 11:03:41 -0400</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -50,8 +50,9 @@
       </item>
     
       <item>
-        <title>TBA</title>
-        <description>&lt;p&gt;TBA&lt;/p&gt;
+        <title>The giant molecular cloud lifecycle under the influence of galactic dynamics</title>
+        <description>&lt;p&gt;The giant molecular cloud (GMC) lifetime places an upper bound on the local time-scale for star-formation, linking cloud- and sub cloud-scale physics to galaxy-scale trends in the star formation rate. Recent observations reveal environmentally-driven trends in GMC properties (e.g. surface densities, velocity dispersions, and turbulent pressures), demanding a systematic, predictive theory of the GMC lifecycle across the parameter space of observable star-forming environments. I will present an analytic theory for GMC lifetimes set by the galactic-dynamical time-scales of the interstellar medium, dependent on just three sets of observables: the rotation curve, surface densities and velocity dispersions of the host galaxy. I will compare and contrast these predictions with a statistical sample of simulated GMCs across three isolated disc galaxies, modelled using the hydrodynamical, moving-mesh code Arepo. My simulations incorporate the features required to accurately model star formation and the influence of stellar feedback on the ISM, including ISM chemistry, a stochastic treatment of star formation, mechanical supernova feedback, and pre-supernova feedback from HII regions. As such, I will (1) examine the nature of the relationship between key GMC properties and the galactic-dynamic environment, and (2) investigate the influence of star formation feedback in truncating the GMC lifetime, relative to the dynamical prediction of the analytic theory. I will also present a comparison of my theoretical results to pioneering observational data currently obtained with ALMA. Together, this combination of analytic, numerical and observational results show that the galactic dynamic environment plays a crucial role in determining GMC lifecycles and thus the star formation rates of their host galaxies.&lt;/p&gt;
+
 </description>
         <pubDate>Wed, 06 Nov 2019 10:00:00 -0500</pubDate>
         <link>https://sfirprinceton.github.io//sfir/2019/11/06/sarah-jefferson.html</link>
@@ -63,8 +64,10 @@
       </item>
     
       <item>
-        <title>TBA</title>
-        <description>&lt;p&gt;TBA&lt;/p&gt;
+        <title>Cosmic Ray Transport and the Galaxy Gas Cycle</title>
+        <description>&lt;p&gt;Despite representing only a billionth of the gas population, cosmic rays have enough energy to significantly shape the structure of the ISM, the supernova-driven outflows that emanate from it, and the surrounding circumgalactic medium (CGM), which contains a large fraction of the baryons in the galactic ecosystem. They exert this influence, however, through micro-scale interactions with plasma fluctuations on scales of order 1 AU. Fully realizing the macroscopic, observable effects of cosmic rays, therefore, requires a truly cross-disciplinary effort between astronomy and plasma physics.&lt;/p&gt;
+
+&lt;p&gt;I will present two recent projects in which I leverage novel numerical techniques and plasma physics-based cosmic ray treatments to simulate cosmic rays in galaxies. This talk will go from small-to-large scales, building in complexity from intuition-building studies of the Parker instability (Heintz, Bustard, and Zweibel 2019) to the role of cosmic rays in the complicated environment of the Magellanic System (Bustard+ 2019, in prep). We find, in each study, that cosmic rays shape their surroundings to promote a flux of gas, magnetic fields, and cosmic rays from disks, develop a cosmic ray dominated halo, and significantly affect the gas phase structure in halos and the CGM. This cosmic ray impact on the galaxy gas cycle promises to narrow gaps between observed and simulated outflows, with the Large Magellanic Cloud being an intriguing, nearby example. Future work to more thoroughly characterize the cosmic ray flux out of the multiphase, turbulent ISM is necessary.&lt;/p&gt;
 </description>
         <pubDate>Wed, 23 Oct 2019 11:00:00 -0400</pubDate>
         <link>https://sfirprinceton.github.io//sfir/2019/10/23/sfir-chad-bustard.html</link>
@@ -76,8 +79,8 @@
       </item>
     
       <item>
-        <title>TBA</title>
-        <description>&lt;p&gt;TBA&lt;/p&gt;
+        <title>Disruption of giant molecular clouds and formation of bound star clusters under the influence of momentum stellar feedback</title>
+        <description>&lt;p&gt;Energetic feedback from massive stars plays a pivotal role in shaping the dynamical evolution of giant molecular clouds (GMCs). In this talk, I will present a suite of isolated GMC simulations to investigate how stellar feedback affects the star formation efficiency (SFE) and the subsequent dynamical response of embedded star clusters. We find that the SFE of the clouds scales strongly with the initial cloud surface density and momentum feedback strength. The boundness of the resulting star clusters is a continuously increasing function of SFE. GMCs with efficiency much smaller than 0.5 are still able to form clusters with large bound fractions. The initial density profile of clouds, though has little effect on the SFE, controls the mode of star formation. Clouds with shallower profiles form stars bottom-up, while highly-concentrated clouds form massive star clusters at the center, which gradually accrete mass from the cloud outskirt later. In the end, I will briefly talk about our preliminary results on how dust dynamics enhance the effects of ionizing radiation from massive stars.&lt;/p&gt;
 </description>
         <pubDate>Wed, 16 Oct 2019 11:00:00 -0400</pubDate>
         <link>https://sfirprinceton.github.io//sfir/2019/10/16/sfir-hui-li.html</link>
