@@ -6,8 +6,8 @@
 </description>
     <link>https://sfirprinceton.github.io//</link>
     <atom:link href="https://sfirprinceton.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 29 Oct 2019 12:35:14 -0400</pubDate>
-    <lastBuildDate>Tue, 29 Oct 2019 12:35:14 -0400</lastBuildDate>
+    <pubDate>Thu, 07 Nov 2019 03:21:15 -0500</pubDate>
+    <lastBuildDate>Thu, 07 Nov 2019 03:21:15 -0500</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -37,8 +37,14 @@
       </item>
     
       <item>
-        <title>TBA</title>
-        <description>&lt;p&gt;TBA&lt;/p&gt;
+        <title>Numerical Modeling of Star Formation and Feedback in Nuclear Rings</title>
+        <description>&lt;p&gt;Nuclear rings are compact ring-like structures often found in central regions of disk galaxies. They are known to be present in 20% of nearby disk galaxies, among which 80% are barred. Nuclear rings in strongly barred galaxies are most likely to be formed by rapid gas infall due to gravitational torque. Considering the fact that the gas is trapped in the nuclear ring and turns into stars, it is important to understand how fast can star formation take place in nuclear rings and how the star formation rate is related to the inflow rate, in order to get a multi-scale view of the black hole feeding process.&lt;/p&gt;
+
+&lt;p&gt;Star formation in nuclear rings deserves attention on its own. The typical star formation rate is on the order of one solar mass per year, which sometimes comparable to the star formation rate of an entire galaxy. The high star formation rate and the compactness of nuclear rings imply that they are potential sites of pseudobulge formation. At the extremities, they may be able to drive massive outflows energized by supernovae, producing galactic winds that we see today in M82, for example.&lt;/p&gt;
+
+&lt;p&gt;Despite an importance of star formation and feedback occurring in nuclear rings, detailed investigation has been challenging in both observation and simulation, partly because of its compactness, which requires high observational and/or numerical resolution. To understand how star formation proceeds and how feedback regulates star formation in nuclear ring environment, we have built a numerical testbed especially tailored for nuclear rings. In contrast to global galaxy-scale simulations, our model enables well-controlled experiments to be performed with high resolution, by modeling the bar-driven mass inflow as an input while concentrating only on the nuclear ring region.&lt;/p&gt;
+
+&lt;p&gt;In this talk, I will introduce nuclear rings in a context of large-scale fueling process, underlining an importance of understanding star formation therein. After describing our model and numerical methods, I will present outcomes of our numerical experiments and discuss the implications, limitations, and future directions.&lt;/p&gt;
 </description>
         <pubDate>Wed, 13 Nov 2019 10:00:00 -0500</pubDate>
         <link>https://sfirprinceton.github.io//sfir/2019/11/13/sfir-sanghyuk-moon.html</link>
