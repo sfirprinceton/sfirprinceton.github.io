@@ -32,7 +32,7 @@ allowing for extensive discussion.   Contributions may also include
 journal-club style presentations and other updates and discussions.
 
 
-Organizers for 2019 are: \\
+Organizers for 2020 are: \\
 Philip Mocz 
 <pmocz@astro.princeton.edu> 
 \\
