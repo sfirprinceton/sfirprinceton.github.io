@@ -10,7 +10,7 @@ permalink: /about/
 
 **When:**  Wednesdays \\
 **Time:**   11am-Noon \\
-**Where:** Peyton Hall Dome Room (201)
+**Where:** Peyton Hall Dome Room (201) -> now on ZOOM!
 
 If you are interested in giving a talk at SFIR, please contact Philip Mocz: <pmocz@astro.princeton.edu> 
 
