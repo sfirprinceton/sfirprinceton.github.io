@@ -1,6 +1,6 @@
 ---
 layout: post
-name:  "Alexander Lazarian (UW-Madison) via ZOOM"
+name:  "Alexander Lazarian (UW-Madison) via ZOOM 11am https://princeton.zoom.us/j/99264672055"
 title:  "Studying Magnetic Fields and Dynamics of Star formation with Velocity Gradients"
 date:   2020-04-15 11:00:00 -0400
 image: "../../../../figures/alazarian.jpg"
